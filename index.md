@@ -12,7 +12,7 @@ I have three years as in IT Support Engineer and I am currently trying to break 
 
 ## Currently
 
-About to finish my diploma in web and programming, Enrolled in an Specialist Diploma in Full Stack Development
+About to finish my diploma in web and programming, Enrolled in an Specialist Diploma in Full Stack Development.
 
 ### Specialized in
 
@@ -27,7 +27,7 @@ Learning more about the different frameworks used in web development.
 ## Education
 
 `2023`
-__Singapore Polytechnic, Diploma (Conversion) in Web and Programming.__
+__Singapore Polytechnic, Diploma (Conversion) in Web and Programming__
 
 `2022`
 __Singapore Polytechnic, Diploma (Conversion) in Computer Networking and Server Admininstration__
