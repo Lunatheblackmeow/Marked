@@ -42,9 +42,6 @@ __Singapore Polytechnic, Diploma in Accountancy__
 `June 2022 to Present`
 __Atlas Copco (South-East Asia) Pte Ltd__, IT Support Engineer, Singapore
 
-- Warden
-- Minted coins
-
 `June 2021 to June 2022`
 __FWD Insurance__, IT Support Engineer, Singapore
 
