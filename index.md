@@ -3,7 +3,7 @@ layout: cv
 title: Kylar Sim's CV
 ---
 # Kylar Sim
-I am just starting to Code.
+I have three years as in IT Support Engineer and I am currently trying to break into the web development space.
 
 <div id="webaddress">
 <a href="kylar.sim@gmail.com">kylar.sim@gmail.com</a>
@@ -16,7 +16,7 @@ About to finish my diploma in web and programming, Enrolled in an Specialist Dip
 
 ### Specialized in
 
-HTML5, CSS3, Javascript, JQuery, Python, RESTful APIs and some SQL
+HTML5, CSS3, Javascript, JQuery, Python, RESTful APIs and MySQL.
 
 
 ### Research interests
@@ -43,77 +43,86 @@ __Singapore Polytechnic, Diploma in Accountancy__
 __Atlas Copco (South-East Asia) Pte Ltd__, IT Support Engineer, Singapore
 
 <ul>
-  <li>- Providing Onsite / Remote Support </li>
+  <li> Providing Onsite / Remote Support </li>
 
-  <li>- Managing Active Directory</li>
+  <li> Managing Active Directory</li>
 
-  <li>- Managing of Computer Inventory</li>
+  <li> Managing of Computer Inventory</li>
 
-  <li>- Managing Sharepoint</li>
+  <li> Managing Sharepoint</li>
 
-  <li>- Managing SCCM deployment</li>
+  <li> Managing SCCM deployment</li>
 
-  <li>- Managing windows autopilot deployment</li>
+  <li> Managing windows autopilot deployment</li>
 
-  <li>- Servicesnow IT Ticketing System</li>
+  <li> Servicesnow IT Ticketing System</li>
 
-  <li>- In charge of Windows 11 deployment of site</li>
+  <li> In charge of Windows 11 deployment of site</li>
 
-<li>- Liaising with external vendors</li>
+<li> Liaising with external vendors</li>
   
 </ul>
  
 `June 2021 to June 2022`
 __FWD Insurance__, IT Support Engineer, Singapore
 
-- Maintained the organization’s Windows AD
+<ul>
+  <li> Maintained the organization’s Windows AD</li>
 
-- Maintained the organization’s Computer Inventory
+  <li> Maintained the organization’s Computer Inventory</li>
 
-- Addressed IT Issues from VVIP Users
+  <li> Addressed IT Issues from VVIP Users</li>
 
-- Resolving IT Issues Remotely / On-site
+  <li> Resolving IT Issues Remotely / On-site</li>
 
-- Streamlining ticketing process via servicenow/remedyforce
+  <li> Streamlining ticketing process via servicenow/remedyforce</li>
 
-- Liaising with external vendors for other IT Issues
+  <li> Liaising with external vendors for other IT Issues</li>
+  
+</ul> 
 
 `April 2021 to May 2022`
 __EF Software Pte Ltd__, IT Support Engineer, Singapore
 
-- Resolving IT Issues Remotely / On-site
+<ul>
+  <li> Resolving IT Issues Remotely / On-site</li>
 
-- Install / Optimize / Repair Computer Systems
+  <li> Install / Optimize / Repair Computer Systems</li>
 
-- Diagnose, Isolate and Implement Solutions
+  <li> Diagnose, Isolate and Implement Solutions</li>
+  
+</ul>
 
 `October 2020 to Feburary 2021`
 __Canopy Technology Pte Ltd__, Lenovo Client Customer Support Engineer, Singapore
 
-- Diagnosing laptops to isolate issues
+<ul>
+  <li> Diagnosing laptops to isolate issues</li>
 
-- Repaired laptop with hardware / software issues
+  <li> Repaired laptop with hardware / software issues</li>
 
-- Conduct and Test for hardware / software compliance
+  <li> Conduct and Test for hardware / software compliance</li>
 
-- Collected and Reviewed data for Trend Analysis
+  <li> Collected and Reviewed data for Trend Analysis</li>
 
-- Liaised with corporate clients on maintenance of laptops
+  <li> Liaised with corporate clients on maintenance of laptops</li>
+ </ul>
 
 `November 2019 to October 2020`
 __PCCW Infosys__, IT Admin, Singapore
+<ul>
+  <li>	Main Service Request Point of Contact</li>
 
--	Main Service Request Point of Contact
+  <li>	Handling tickets thru Servicenow</li>
 
--	Handling tickets thru Servicenow
+  <li>	Managing and Maintaining of Home Team accounts</li>
 
--	Managing and Maintaining of Home Team accounts
+  <li>	Ensuring Service Requests are completed and updated to users</li>
 
--	Ensuring Service Requests are completed and updated to users
+  <li>	Ensuring that deployment tracker is updated and maintained</li>
 
--	Ensuring that deployment tracker is updated and maintained
-
--	Generating Monthly IT Reports for Management as needed
+  <li>	Generating Monthly IT Reports for Management as needed</li>
+  </ul>
 
 <!-- ### Footer
 
