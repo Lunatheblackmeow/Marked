@@ -42,24 +42,27 @@ __Singapore Polytechnic, Diploma in Accountancy__
 `June 2022 to Present`
 __Atlas Copco (South-East Asia) Pte Ltd__, IT Support Engineer, Singapore
 
-- Providing Onsite / Remote Support
+<ul>
+  <li>- Providing Onsite / Remote Support </li>
 
-- Managing Active Directory
+  <li>- Managing Active Directory</li>
 
-- Managing of Computer Inventory
+  <li>- Managing of Computer Inventory</li>
 
-- Managing Sharepoint
+  <li>- Managing Sharepoint</li>
 
-- Managing SCCM deployment
+  <li>- Managing SCCM deployment</li>
 
-- Managing windows autopilot deployment
+  <li>- Managing windows autopilot deployment</li>
 
-- Servicesnow IT Ticketing System
+  <li>- Servicesnow IT Ticketing System</li>
 
-- In charge of Windows 11 deployment of site
+  <li>- In charge of Windows 11 deployment of site</li>
 
-- Liaising with external vendors
-
+<li>- Liaising with external vendors</li>
+  
+</ul>
+ 
 `June 2021 to June 2022`
 __FWD Insurance__, IT Support Engineer, Singapore
 
