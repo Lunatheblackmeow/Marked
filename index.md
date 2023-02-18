@@ -1,88 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kylar Sim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kylar Sim
+I am just starting to Code.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kylar.sim@gmail.com">kylar.sim@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+About to finish my diploma in web and programming, Enrolled in an Specialist Diploma in Full Stack Development
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+HTML5, CSS3, Javascript, JQuery, Python, RESTful APIs and some SQL
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Learning more about the different frameworks used in web development.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023`
+__Singapore Polytechnic, Diploma (Conversion) in Web and Programming.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2022`
+__Singapore Polytechnic, Diploma (Conversion) in Computer Networking and Server Admininstration__
 
-- Sizar
+`2015`
+__Singapore Polytechnic, Diploma in Accountancy__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`June 2022 to Present`
+__Atlas Copco (South-East Asia) Pte Ltd__, IT Support Engineer, Singapore
 
 - Warden
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`June 2021 to June 2022`
+__FWD Insurance__, IT Support Engineer, Singapore
 
+`April 2021 to May 2022`
+__EF Software Pte Ltd__, IT Support Engineer, Singapore
 
+`October 2020 to Feburary 2021`
+__Canopy Technology Pte Ltd__, Lenovo Client Customer Support Engineer, Singapore
+
+`November 2019 to October 2020`
+__PCCW Infosys__, IT Admin, Singapore
 
 <!-- ### Footer
 
